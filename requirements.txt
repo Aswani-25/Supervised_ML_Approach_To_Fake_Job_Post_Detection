@@ -4,3 +4,5 @@ numpy
 scikit-learn
 beautifulsoup4
 requests
+matplotlib
+seaborn
