@@ -94,11 +94,6 @@ These documents provide detailed explanation and presentation of the project.
 
 ---
 
-## 🌐 Live Demo
-
-👉 (Add your Render deployment link here)
-
----
 
 ## 🔬 Model Training (Google Colab)
 
